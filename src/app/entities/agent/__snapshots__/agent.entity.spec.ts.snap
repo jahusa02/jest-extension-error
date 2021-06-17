@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`agent entity AgentEntity should contain given options 1`] = `
+Object {
+  "agentNumber": "0123",
+  "firstName": "Foo",
+  "id": "3456",
+  "lastName": "Bar",
+  "locale": "de-de",
+  "partnerNumber": "3456",
+}
+`;
